@@ -1,0 +1,30 @@
+body{
+	background-color: slategrey;
+}
+
+#border {
+	width: 600px;
+	border: 2px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 15px 15px black; 
+	background-color: lightsteelblue;
+}
+
+#content {
+	margin:10px;
+}
+
+legend {
+	color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
